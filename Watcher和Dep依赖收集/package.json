@@ -1,0 +1,16 @@
+{
+  "name": "my-diff-study",
+  "version": "1.0.0",
+  "description": "这是我自己研究DIFF算法的项目，代码全部都是自己写的。",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.17.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
